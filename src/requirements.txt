@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+numpy
+opencv-python-headless
+Pillow
+pytorch-grad-cam
+requests
+streamlit-lottie
+fpdf
+scikit-learn
+matplotlib
+seaborn
+pandas
