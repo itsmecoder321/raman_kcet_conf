@@ -3,6 +3,7 @@ torch
 torchvision
 numpy
 grad-cam
+opencv-python
 Pillow
 requests
 streamlit-lottie
