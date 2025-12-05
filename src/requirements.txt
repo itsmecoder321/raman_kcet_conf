@@ -2,12 +2,11 @@ streamlit
 torch
 torchvision
 numpy
-opencv-python-headless
-Pillow>=9.0.0
 grad-cam
+Pillow
 requests
 streamlit-lottie
-fpdf2
+fpdf
 scikit-learn
 matplotlib
 seaborn
