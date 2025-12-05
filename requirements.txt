@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+pillow
+scikit-learn
+matplotlib
+tqdm
+opencv-python
+streamlit
+torchmetrics
